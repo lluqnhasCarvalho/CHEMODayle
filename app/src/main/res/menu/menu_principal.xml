@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+        <item
+            android:id="@+id/menu_toolbar_main_perfil"
+           android:icon="@drawable/ic_perfil"
+            app:showAsAction="always"
+            android:title="apagar" />
+
+        <item
+            android:id="@+id/menu_toolbar_main_sobre"
+            android:icon="@drawable/ic_sobre"
+            app:showAsAction="always"
+            android:title="salvar" />
+
+        <item
+            android:id="@+id/menu_toolbar_main_configuracoes"
+            android:icon="@drawable/ic_configuracoes"
+            app:showAsAction="always"
+            android:title="salvar" />
+    </menu>

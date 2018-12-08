@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chemo</string>
+    <string name="chemo">CHEMO</string>
+    <string name="dayle">Dayle</string>
+    <string name="informacoes_e_dicas"><![CDATA[Dicas & Informações]]></string>
+    <string name="dados_pessoais">Dados Pessoais</string>
+    <string name="agenda_paciente">Agenda Paciente</string>
+    <string name="lista_medicamentos">Lista de Medicamento</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="salvar">Salvar</string>
+    <string name="msg_status">Ajude-nos a monitorar seu bem-estar, informando como se sente diariamente e indicando se existe a prença de dor</string>
+    <string name="esta_tratamento">Esta fazendo uso de medicamentos?</string>
+    <string name="status_descricao">Como você está se sentindo</string>
+    <string name="status_txt_emoji">Selecione o emoji que corresponde com a dor que você está sentindo</string>
+
+    <string-array name="title_tab">
+        <item>CONSULTA</item>
+        <item>TRATAMENTO</item>
+    </string-array>
+
+    <string-array name="msg">
+        <item>OCORREU UM ERRO!</item>
+        <item>SALVO COM SUCESSO!</item>
+        <item>CANCELADO</item>
+        <item>FALHA NA CONEXÃO COM BANCO DE DADOS</item>
+        <item>CAMPO OBRIGATÓRIO!</item>
+    </string-array>
+
+    <string-array name="titulo_dica">
+        <item>Especifique seu diagnóstico e tratamento</item>
+        <item>Tenha tempo para escolher seu médico</item>
+        <item>Procure o suporte necessário para falar sobre seu diagnóstico</item>
+        <item>Peça auxílio para lidar com as questões financeiras, se necessário</item>
+        <item>Tenha uma agenda</item>
+        <item>Fale com seu médico sobre como lidar com os parefeitos dos tratamentos</item>
+        <item>Tenha uma boa alimentação</item>
+        <item>Faça exercícios</item>
+        <item>Cuide da saúde dos seus ossos</item>
+        <item>Tratamento e Trabalho</item>
+    </string-array>
+
+    <string-array name="menssagem_dica">
+        <item>"Traga na consulta sua lista de perguntas por escrito para não esquecer e agilizar seu tempo,
+            faça cópias dos seus exames e organize em uma pasta, aprenda o máximo possível do seu diagnóstico e tratamento".</item>
+        <item>"Especialistas que trabalham em centros dedicados ao tratamento do câncer oferecem acesso a tratamentos inovadores, que muitas
+            vezes ainda estão em estudos clínicos. Tais centros oferecem outros serviços especializados como fisioterapia, nutricionistas, psicólogos, etc".</item>
+        <item>"Levar a notícia do seu diagnóstico para sua família e amigos pode ser tão difícil quanto ouvir pela primeira vez o seu diagnóstico
+            do seu médico. Mesmo depois de comunicar sua família e amigos, pode ser difícil falar abertamente sobre o assunto. Se for possível,
+            peça um agendamento com psicólogo ou assistente social da equipe para discutir seus aspectos emocionais e ter o suporte que você precisa".</item>
+        <item>"Seu hospital ou clínica deve ter um profissional do serviço social, site ou departamento de finanças para ajudá-lo na relação com os convênios de saúde e
+            seguros, bem como alertá-lo para seus direitos. Solicite um agendamento em caso de dúvidas".</item>
+        <item>"A demanda com consultas e exames é intensa. Procure ter uma agenda onde possa ter todos os seus compromissos organizados, bem como
+            telefones importantes".</item>
+        <item>"Os tratamentos oncológicos podem apresentar uma grande variedade de parefeitos. Seu médico poderá ajudá-lo a minimizar tais efeitos
+            fornecendo sugestões práticas para cada tipo de tratamento".</item>
+        <item>"O tratamento oncológico pode alterar o paladar (gosto para os alimentos) e seu olfato (cheiro dos alimentos), assim como sua digestão. Alimentos que você costuma gostar podem deixar de ser
+            agradáveis durante o tratamento e paradoxalmente, alimentos que você não costuma gostar, podem passar a ser bem aceitos. Você poderá tolerar melhor refeições em menores volumes e mais
+            frequentes do que 3 refeições diárias com grandes volumes de alimentos. Procure não ganhar peso, aumentando a quantidade de alimentos calóricos e auxilie no combate a doença ingerindo mais
+            verduras, frutas, legumes e grãos. Bebidas alcóolicas não devem ser ingeridas de um modo geral durante o tratamento, mas se você ingerir, não ultrapasse 3 drinks ou doses padrão por semana
+            (500ml de cerveja ou 2 copos de vinho ou 75ml de destilados)".</item>
+        <item>"Exercícios leves durante o tratamento como caminhadas regulares podem ajudar tanto nos efeitos físicos como mentais. Após o término do tratamento, aumentar gradualmente a atividade física pode auxiliar
+            a combater a fadiga e recuperar o tônus muscular. Também melhora a circulação ajudando a combater um efeito cerebral da quimioterapia chamado de “chemobrain” – confusão mental e esquecimento. Atividades
+            adequadas para este momento incluem yoga, tai-chi, hidroginástica, natação. Procure estar fisicamente ativo por pelo menos 30 minutos por dia. Caso tenha dificuldade para escolher o que fazer, peça indicação
+            de um profissional (fisioterapeuta, professor de educação física, instrutor) para seu médico".</item>
+        <item>"Alguns tratamentos podem aumentar o risco de osteoporose. Converse com sua equipe de saúde (médico, nutricionista, fisioterapeuta) solicitando as orientações adequadas de alimentação e eventualmente
+            suplementação de vitamina D e cálcio, bem como atividade física apropriada para manter seus ossos fortes".</item>
+        <item> "Algumas pessoas conseguem manter sua atividade profissional durante o tratamento, enquanto outras precisarão reduzir e até suspender as atividades durante o tratamento. Se você parar de trabalhar durante o
+            tratamento e conseguir retornar rapidamente após o término do mesmo, ajudará a manter sua identidade e sua auto-estima, sem considerar a questão financeira. Outras pessoas podem preferir conversar no
+            trabalho uma forma de flexibilizar as atividades durante o tratamento, fazendo pausas menores. O importante é ter paciência e respeitar seus limites".</item>
+    </string-array>
+
+    <string-array name="smile_rating">
+        <item>Sem Dor</item>
+        <item>Ligeira</item>
+        <item>Moderada</item>
+        <item>Intensa</item>
+        <item>Máxima</item>
+    </string-array>
+
+    <string name="informacoes_pessoais">INFORMAÇÕES DO PACIENTE</string>
+    <string name="paciente_nome">Digite seu nome</string>
+    <string name="nome">Nome</string>
+    <string name="descrição_pessoal">descrição pessoal</string>
+    <string name="minha_pagina">Minha Página</string>
+    <string name="sexo">SEXO</string>
+    <string name="idade">IDADE</string>
+    <string name="peso">PESO</string>
+    <string name="altura">ALTURA</string>
+    <string name="definir_peso">Definir Peso</string>
+    <string name="feminino">Feminino</string>
+    <string name="masculino">Masculino</string>
+    <string name="titulo">Título</string>
+    <string name="Defina_sexo">Defina seu Sexo</string>
+    <string name="data">Data</string>
+    <string name="hora">Hora</string>
+    <string name="alerta">Alerta</string>
+    <string name="local">Local</string>
+    <string name="nome_medicamento">Nome dos Medicamento</string>
+    <string name="nome_medico">Nome do Medico</string>
+    <string name="add_evento">Adicionar Evento</string>
+    <string name="descricao">Descrição</string>
+    <string name="data_final">Data Final</string>
+    <string name="data_inicial">Data Inicial</string>
+    <string name="imagem_selecionada">imagem selecionada</string>
+    <string name="selecioneImage">imagem selecionada</string>
+</resources>
+
